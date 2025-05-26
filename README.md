@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I,m akash mandrele
+- 🌱 I’m currently learning Java and Web Development
+- 💻 I love building student management systems
+- 📫 I’m currently learning ...
+- 
+
 
 <!--
 **akashmandrele/akashmandrele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
